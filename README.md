@@ -1,7 +1,7 @@
 _**Sentiment Analysis Project**_
 
 **OVERVIEW**
-This project implements a Sentiment Analysis tool that analyzes text data to determine the sentiment expressed withiin it. This tool utlizes machine learning algorithms to classify sentiments as positive and negative, providing valuable insights into user opinions and emotions.
+This project implements a Sentiment Analysis tool that analyzes text data to determine the sentiment expressed withiin it. This tool utlizes machine learning algorithms to classify sentiments as positive and negative, providing valuable insights into user opinions and emotions. You can run my model on Hugginng Face using the following link : https://huggingface.co/spaces/yashrajs118/Sentiment-Analysis
 
 **FEATURES**
 1. _Text Classification_ : Classify text into positive and negative statements.
